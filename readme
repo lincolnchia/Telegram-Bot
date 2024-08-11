@@ -1,0 +1,10 @@
+# Create a venv
+# python -m venv venv
+# venv/scripts/activate
+# deactivate
+
+
+
+# Store Packages in npm 
+# npm init -y 
+# To install add --save at the end
