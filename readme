@@ -3,8 +3,14 @@
 # venv/scripts/activate
 # deactivate
 
+# Adding the pip dependencies 
+# pip freeze > requirement.txt
+
+# How to install all pip dependencies
+# Pip install -r requirements
 
 
 # Store Packages in npm 
 # npm init -y 
 # To install add --save at the end
+
