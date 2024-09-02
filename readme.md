@@ -5,10 +5,10 @@ This project is used to take leaves and attendence of users.
 
 ## Python Virtual Environment
 # Creating a python virtual environment 
-- python -m venv venv
+``` python -m venv venv ```
 
 # Activating the virtual environment ( using command line )
-``` venv/scripts/activate```
+``` venv/scripts/activate ```
 
 # Deactiving the virtual environment ( using command line )
 ``` deactivate ```
