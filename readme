@@ -1,16 +1,25 @@
-# Create a venv
-# python -m venv venv
-# venv/scripts/activate
-# deactivate
+# Telegram Bot Project
+## Description 
+This project is used to take leaves and attendence of users.
+### Installation 
 
-# Adding the pip dependencies 
-# pip freeze > requirement.txt
+## Python Virtual Environment
+# Creating a python virtual environment 
+- python -m venv venv
 
-# How to install all pip dependencies
-# Pip install -r requirements
+# Activating the virtual environment ( using command line )
+``` venv/scripts/activate```
 
+# Deactiving the virtual environment ( using command line )
+``` deactivate ```
 
-# Store Packages in npm 
-# npm init -y 
-# To install add --save at the end
+# Installing Pip Dependency ( Start of project )
+``` pip install -r requirements ```
 
+# Saving new pip dependency to project
+``` pip freeze > requirement.txt ```
+
+# Npm Commands 
+- Start a package.json file ```npm init -y```
+- Install npm package ```npm install etc --save ```
+- Installing all npm packages ```npm install ```
